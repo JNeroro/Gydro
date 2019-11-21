@@ -12,7 +12,7 @@ pr = 3
 
 xmax = 1.0
 xmin = 0
-t = 3.0
+t = 4.0
 
 def minmod(a, b):
     if abs(a) < abs(b) and a*b > 0.0:
